@@ -4,7 +4,9 @@ current: post
 title: Welcome Post
 categories: Mystical
 tags: time , face
-author: Palash Bauri
+author: bauripalash
 cover: assets/imgs/me.jpg
 ---
-Hello World
+
+## Hello World
+> How are you
