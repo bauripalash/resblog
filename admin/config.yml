@@ -17,6 +17,7 @@ collections:
       - {label: "Author", name: "author", widget: "string" , default: "bauripalash"}
       - {label: "Category", name: "categories", widget: "list"}
       - {label: "Tags", name: "tags", widget: "list"}
+      - {label: "Permalink", name: "permalink", widget: "string"}
       - {label: "Cover Image", name: "cover", widget: "image"}
       - {label: "Body", name: "body", widget: "markdown"}
       
