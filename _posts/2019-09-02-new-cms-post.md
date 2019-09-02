@@ -1,13 +1,17 @@
 ---
 layout: post
 current: post
-title: NEW CMS POST
+title: Introduction To Time Science
 author: bauripalash
 categories:
-  - cms
+  - Time-Science
 tags:
-  - hello
-  - post
-cover: /assets/imgs/me.jpg
+  - time
+  - science
+  - future
+permalink: /introduction-to-time-science
+cover: /assets/imgs/time-min.jpg
 ---
-\# HEllo
+Time is a Complex Topic. It hold mysteries that nobody can imagine!
+
+### [WIP]
