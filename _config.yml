@@ -5,7 +5,7 @@ url: https://res.palash.tk # this is your site's root address.
 baseurl: /
 description: > # this means to ignore newlines until "show_excerpts:"
   Little Creepy and Out Of The World Researches!
-favicon: "./favicon.ico" # set the favicon of the site 
+favicon: "./favicon.png" # set the favicon of the site 
 
 show_excerpts: true # set to true to show excerpts on the homepage
   
