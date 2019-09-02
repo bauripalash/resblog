@@ -1,9 +1,4 @@
-[[redirects]]
-  from = "http://respal.netlify.com/*"
-  to = "http://res.palash.tk/:splat"
-  status = 301
-  
-[[redirects]]
-  from = "https://respal.netlify.com/*"
-  to = "https://res.palash.tk/:splat"
-  status = 301  
+[build]
+  command = "jekyll build && cp _redirects _site/_redirects"
+  publish = "_site"
+ 
