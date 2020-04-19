@@ -41,3 +41,5 @@ fields:
 - type: file
   name: cover
   label: Cover Image
+pages:
+- _posts/young-people-most-infected-in-india.md
