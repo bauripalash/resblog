@@ -4,25 +4,40 @@ hide_body: false
 fields:
 - type: text
   name: layout
-  label: layout
+  label: Layout
+  hidden: true
+  config:
+    required: true
+  default: post
 - type: text
   name: current
-  label: current
-- type: text
-  name: title
-  label: title
+  label: Current Post Type
+  hidden: true
+  default: post
 - type: text
   name: author
-  label: author
+  label: Author
+  hidden: true
+  default: bauripalash
+- type: text
+  name: title
+  label: Post Title
+  description: Boog Post Title
 - type: list
   name: categories
-  label: categories
+  label: Catagory
+  description: Single Catagory of Post
+  config:
+    use_select: false
 - type: list
   name: tags
-  label: tags
+  label: Tags
+  description: Tags of Post
+  config:
+    use_select: false
 - type: text
   name: permalink
-  label: permalink
+  label: Custom Slug
 - type: file
   name: cover
-  label: cover
+  label: Cover Image
