@@ -62,6 +62,8 @@ theme: minima
 
 permalink: /:title
 
+timezone: Asia/Kolkata
+
 destination: ./build
 
 plugins:
