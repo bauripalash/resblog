@@ -1,7 +1,6 @@
 # frozen_string_literal: true
 
 source "https://rubygems.org"
+gemspec
 
-gem "jekyll", "~> 3.6.2"
-gem "github-pages", "~> 168"
-gem 'wdm', '>= 0.1.0' if Gem.win_platform?
+gem "jekyll", ENV["JEKYLL_VERSION"] if ENV["JEKYLL_VERSION"]

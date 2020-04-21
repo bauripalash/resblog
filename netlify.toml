@@ -1,4 +1,0 @@
-[build]
-  command = "jekyll build && cp _redirects _site/_redirects"
-  publish = "_site"
- 
