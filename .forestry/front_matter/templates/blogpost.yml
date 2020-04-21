@@ -4,22 +4,41 @@ hide_body: false
 fields:
 - type: text
   name: layout
-  label: layout
+  label: Layout
+  config:
+    required: true
+  default: post
+  hidden: true
 - type: text
   name: title
-  label: title
+  label: Post Title
+  description: Blog Post Title
 - type: list
   name: categories
-  label: categories
+  label: 'Post Categories  '
 - type: textarea
   name: description
-  label: description
+  label: Description
+  description: Post Description
+  default: ''
 - type: file
   name: image
-  label: image
+  label: Cover Image
 - type: text
   name: author
-  label: author
+  default: Palash Bauri
+  label: Author
 - type: datetime
   name: modified_date
-  label: modified_date
+  label: Last Modified Date
+  default: now
+  config:
+    date_format: YYYY-MM-DD
+- name: math
+  type: boolean
+  label: Enable Math
+  description: Enable Mathjax on Page
+- name: tags
+  type: tag_list
+  default: []
+  label: Post Tags
