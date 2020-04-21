@@ -60,7 +60,9 @@ facebook:
 # Build settings
 theme: minima
 
-permalink : /:title
+permalink: /:title
+
+destination: ./build
 
 plugins:
  - jekyll-feed
