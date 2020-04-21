@@ -3,14 +3,16 @@ layout: post
 title: Young People Most Infected from Coronavirus in India
 categories:
 - Coronavirus
-description: > 
-    In this project we are trying to figure out the age distribution of COVID-19 infected patients in India to understand the risk rate of other non infected people.
+description: 'In this project we are trying to figure out the age distribution of
+  COVID-19 infected patients in India to understand the risk rate of other non infected
+  people.
+
+'
 image: "/assets/imgs/ica-9-4.png"
 author: Palash Bauri
-modified_date : 2020-04-21
+modified_date: 2020-04-21 08:29:00 +0000
 
 ---
-
 **Analysis by , Palash Bauri , on 9 April , 2020**
 
 ---
