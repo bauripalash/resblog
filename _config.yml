@@ -66,6 +66,8 @@ timezone: Asia/Kolkata
 
 destination: ./build
 
+google_analytics: UA-99631053-11
+
 plugins:
  - jekyll-feed
  - jekyll-seo-tag
