@@ -1,0 +1,25 @@
+---
+label: BLOGPOST
+hide_body: false
+fields:
+- type: text
+  name: layout
+  label: layout
+- type: text
+  name: title
+  label: title
+- type: list
+  name: categories
+  label: categories
+- type: textarea
+  name: description
+  label: description
+- type: file
+  name: image
+  label: image
+- type: text
+  name: author
+  label: author
+- type: datetime
+  name: modified_date
+  label: modified_date
