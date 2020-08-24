@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "MewMew : Programming in Cats' Language"
+title: MewMew : Programming in Cats' Language
 categories:
 - programming-language
 description: 'MewMew is an esoteric programming language which let's user code in cats' language.
