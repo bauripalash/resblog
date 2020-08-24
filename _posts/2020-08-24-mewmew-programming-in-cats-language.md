@@ -4,9 +4,8 @@ title: "MewMew : Programming in Cats' Language"
 categories:
 - programming-language
 description: 'MewMew is an esoteric programming language which let's user code in cats' language.
-              First steps towards building languages for non-human languages.
+              First steps towards building languages for non-human languages.'
 
-'
 image: "/assets/imgs/ica-9-4.png"
 author: Palash Bauri
 ---
