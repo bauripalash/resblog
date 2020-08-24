@@ -42,3 +42,5 @@ fields:
   type: tag_list
   default: []
   label: Post Tags
+pages:
+- _posts/mewmew-programming-in-cats-language.md
